@@ -49,6 +49,7 @@ To keep this list useful and trustworthy, please follow these rules:
 ### Libraries
 
 - `zap-sfml` - SFML bindings for Zap [GitHub](https://github.com/funcieqDEV/zap-sfml)
+- `tui.zp` - A lightweight TUI library for Zap with panels, text fields, borders, and ANSI colors. [GitHub](https://github.com/na-razie-bez-nicku/tui.zp)
 
 ### Frameworks
 
