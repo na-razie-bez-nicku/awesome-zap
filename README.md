@@ -48,6 +48,7 @@ To keep this list useful and trustworthy, please follow these rules:
 
 ### Libraries
 
+- `tui.zp` - A lightweight TUI library for Zap with panels, text fields, borders, and ANSI colors. [GitHub](https://github.com/na-razie-bez-nicku/tui.zp)
 - `zap-sfml` - SFML bindings for Zap [GitHub](https://github.com/funcieqDEV/zap-sfml)
 
 ### Frameworks
@@ -56,8 +57,8 @@ To keep this list useful and trustworthy, please follow these rules:
 
 ### CLI Tools
 
-- `thor` - self-hosted build tool for the Zap programming language. [GitHub](https://github.com/thezaplang/thor)
 - `brainfuck-zap-transpiler` - transpiles Brainfuck code to Zap. [GitHub](https://github.com/gorciu-official/brainfuck-zap-transpiler)
+- `thor` - self-hosted build tool for the Zap programming language. [GitHub](https://github.com/thezaplang/thor)
 
 ### Applications
 
